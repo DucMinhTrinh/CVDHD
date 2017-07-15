@@ -1,0 +1,31 @@
+https://fcm.googleapis.com/fcm/send
+
+
+Authorization: key=AIzaSyAiuwCHgoeLOMLB0SciKXztfTXw19aMQXU
+Content-Type: application/json
+Host: fcm.googleapis.com
+Content-Length: 345
+
+
+
+{
+    "to":"ffI3IwvlXcI:APA91bGMYNoy4ccTInR0Kygi3XevStTACSCWZqrMfTn2BK-BYA5l86FfYDP0Rdg4mxiiFhzT_c8DwYJMhoR_-DwvI9aGjeZS9drkBuXTl42ewS0SRtJkqAkxo37FImjPL5u_TfRmLQxQ",
+    "data":{"id":100},
+   "notification":{
+       "body":"Hello Đạt",
+       "title":"Notification Demo",
+       "priority":"high",
+       "sound":"default"
+
+   }
+} 
+
+
+
+{
+    "_id": "58ce2327c871892c9191b27d",
+    "productName": "Điện thoại Asus Zenfone 6 (A601/A601CG) - 16GB, RAM 2GB, 2 sim",
+    "RelationTotal": 12,
+    "price": 2100000,
+    "imageList": "https://img.websosanh.vn/v2/users/root_product/images/cKiPE3bkiL8k.jpg?width=220&compress=85"
+}
