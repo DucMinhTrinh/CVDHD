@@ -1,0 +1,7 @@
+1.Open xampp,bat apache
+2.Open mongodb
+open cmd
+enter mongod
+3.Open elasticsearch
+Open ../ElasticSearch2/elasticsearch-5.2.2/bin
+Open by admin permisson elaticsearch.bat
